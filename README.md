@@ -1,7 +1,3 @@
-Perfect 👍 I’ll write your **Car Sales Dashboard Project (Power BI)** case study in the same structured style as your Vrinda Store one, so you can copy it directly into your GitHub README.
-
----
-
 # 🚗 Car Sales Data Analysis – Interactive Dashboard (Power BI)
 
 ## 📌 Project Objective
