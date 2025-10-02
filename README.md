@@ -61,7 +61,10 @@ The Car Dealership company wants to create a **dynamic Car Sales Dashboard** to 
 
 ## 📊 Dashboard (Interactive View)
 
-*(Insert screenshot of Power BI dashboard here)*
+-<a href="https://github.com/jahnavi-1125/Car-Sales-Analysis/blob/main/Dashboard-1.png"> View Dashboard-1 </a>
+
+
+-<a href="https://github.com/jahnavi-1125/Car-Sales-Analysis/blob/main/Dashboard-2.png"> View Dashboard-2 </a>
 
 ---
 
@@ -85,10 +88,4 @@ To drive higher sales, the dealership should:
 * Leverage company-level insights to **promote top-performing brands** while improving weaker brand visibility.
 * Use the **interactive dashboard** for continuous monitoring of KPIs to support **data-driven decision-making**.
 
----
 
-👉 This Power BI dashboard empowers the dealership to track sales effectively, identify profitable trends, and refine strategies for **sustainable growth in 2023 & 2024**.
-
----
-
-Would you like me to also **generate a sample Markdown with emojis, tables, and a screenshot placeholder** (like a polished GitHub README template) so you can just paste it into GitHub directly?
